@@ -10,11 +10,11 @@ This repository contains Java console-based projects developed during my interns
 5. Task Management System 
 6. Banking console Application
 
-## 🚀 Technologies Used
+## Technologies Used
 - Java
 - OOP Concepts
 - ArrayList
 - Scanner Class
 
-## 👨‍💻 Author
+## Author
 Veeresh
